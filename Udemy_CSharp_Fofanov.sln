@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy_CSharp_Fofanov", "Udemy_CSharp_Fofanov\Udemy_CSharp_Fofanov.csproj", "{BF9A2B75-332D-4AB2-BB50-3398195F10FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Udemy_CSharp_Fofanov", "Udemy_CSharp_Fofanov\Udemy_CSharp_Fofanov.csproj", "{BF9A2B75-332D-4AB2-BB50-3398195F10FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_Lesson", "12_Lesson\12_Lesson.csproj", "{087ED054-6289-48E9-97F9-954DB5766517}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12_Lesson", "12_Lesson\12_Lesson.csproj", "{087ED054-6289-48E9-97F9-954DB5766517}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Lesson", "13_Lesson\13_Lesson.csproj", "{B1BBF2DB-F8AA-42DC-840D-CC0DA405F616}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16_Lesson", "13_Lesson\16_Lesson.csproj", "{B1BBF2DB-F8AA-42DC-840D-CC0DA405F616}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

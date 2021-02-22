@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\data\\Udemy_CSharp_Fofanov\\13_Lesson\\13_Lesson.csproj",
-      "projectName": "13_Lesson",
-      "projectPath": "C:\\data\\Udemy_CSharp_Fofanov\\13_Lesson\\13_Lesson.csproj",
+      "projectUniqueName": "C:\\data\\Udemy_CSharp_Fofanov\\13_Lesson\\16_Lesson.csproj",
+      "projectName": "16_Lesson",
+      "projectPath": "C:\\data\\Udemy_CSharp_Fofanov\\13_Lesson\\16_Lesson.csproj",
       "packagesPath": "C:\\Users\\tsimakhovich\\.nuget\\packages\\",
       "outputPath": "C:\\data\\Udemy_CSharp_Fofanov\\13_Lesson\\obj\\",
       "projectStyle": "PackageReference",

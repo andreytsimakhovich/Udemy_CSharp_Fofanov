@@ -1,0 +1,13 @@
+C:\data\Udemy_CSharp_Fofanov\13_Lesson\bin\Debug\netcoreapp3.1\13_Lesson.exe
+C:\data\Udemy_CSharp_Fofanov\13_Lesson\bin\Debug\netcoreapp3.1\13_Lesson.deps.json
+C:\data\Udemy_CSharp_Fofanov\13_Lesson\bin\Debug\netcoreapp3.1\13_Lesson.runtimeconfig.json
+C:\data\Udemy_CSharp_Fofanov\13_Lesson\bin\Debug\netcoreapp3.1\13_Lesson.runtimeconfig.dev.json
+C:\data\Udemy_CSharp_Fofanov\13_Lesson\bin\Debug\netcoreapp3.1\13_Lesson.dll
+C:\data\Udemy_CSharp_Fofanov\13_Lesson\bin\Debug\netcoreapp3.1\13_Lesson.pdb
+C:\data\Udemy_CSharp_Fofanov\13_Lesson\obj\Debug\netcoreapp3.1\13_Lesson.csprojAssemblyReference.cache
+C:\data\Udemy_CSharp_Fofanov\13_Lesson\obj\Debug\netcoreapp3.1\13_Lesson.AssemblyInfoInputs.cache
+C:\data\Udemy_CSharp_Fofanov\13_Lesson\obj\Debug\netcoreapp3.1\13_Lesson.AssemblyInfo.cs
+C:\data\Udemy_CSharp_Fofanov\13_Lesson\obj\Debug\netcoreapp3.1\13_Lesson.csproj.CoreCompileInputs.cache
+C:\data\Udemy_CSharp_Fofanov\13_Lesson\obj\Debug\netcoreapp3.1\13_Lesson.dll
+C:\data\Udemy_CSharp_Fofanov\13_Lesson\obj\Debug\netcoreapp3.1\13_Lesson.pdb
+C:\data\Udemy_CSharp_Fofanov\13_Lesson\obj\Debug\netcoreapp3.1\13_Lesson.genruntimeconfig.cache
