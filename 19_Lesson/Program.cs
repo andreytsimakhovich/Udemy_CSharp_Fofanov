@@ -6,6 +6,7 @@ namespace _19_Lesson
     {
         static void Main(string[] args)
         {
+            string str = string.Empty; // same as ""
             //string emphy = "";
             //string whiteSpased = " ";
             //string notEmphy = " b";
