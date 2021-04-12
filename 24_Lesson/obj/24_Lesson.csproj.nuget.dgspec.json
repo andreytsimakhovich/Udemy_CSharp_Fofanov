@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\data\\Udemy_CSharp_Fofanov\\24_Lesson\\24_Lesson.csproj": {}
+    "C:\\_Tsimakhovich\\C#\\Udemy_CSharp_Fofanov\\24_Lesson\\24_Lesson.csproj": {}
   },
   "projects": {
-    "C:\\data\\Udemy_CSharp_Fofanov\\24_Lesson\\24_Lesson.csproj": {
+    "C:\\_Tsimakhovich\\C#\\Udemy_CSharp_Fofanov\\24_Lesson\\24_Lesson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\data\\Udemy_CSharp_Fofanov\\24_Lesson\\24_Lesson.csproj",
+        "projectUniqueName": "C:\\_Tsimakhovich\\C#\\Udemy_CSharp_Fofanov\\24_Lesson\\24_Lesson.csproj",
         "projectName": "24_Lesson",
-        "projectPath": "C:\\data\\Udemy_CSharp_Fofanov\\24_Lesson\\24_Lesson.csproj",
-        "packagesPath": "C:\\Users\\tsimakhovich\\.nuget\\packages\\",
-        "outputPath": "C:\\data\\Udemy_CSharp_Fofanov\\24_Lesson\\obj\\",
+        "projectPath": "C:\\_Tsimakhovich\\C#\\Udemy_CSharp_Fofanov\\24_Lesson\\24_Lesson.csproj",
+        "packagesPath": "C:\\Users\\Timokhovich_Andrei\\.nuget\\packages\\",
+        "outputPath": "C:\\_Tsimakhovich\\C#\\Udemy_CSharp_Fofanov\\24_Lesson\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tsimakhovich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Timokhovich_Andrei\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
