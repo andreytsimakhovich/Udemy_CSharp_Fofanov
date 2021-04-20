@@ -1,0 +1,6 @@
+C:\_Tsimakhovich\C#\Udemy_CSharp_Fofanov\37_HomeWork\bin\Debug\37_HomeWork.exe.config
+C:\_Tsimakhovich\C#\Udemy_CSharp_Fofanov\37_HomeWork\bin\Debug\37_HomeWork.exe
+C:\_Tsimakhovich\C#\Udemy_CSharp_Fofanov\37_HomeWork\bin\Debug\37_HomeWork.pdb
+C:\_Tsimakhovich\C#\Udemy_CSharp_Fofanov\37_HomeWork\obj\Debug\37_HomeWork.csproj.CoreCompileInputs.cache
+C:\_Tsimakhovich\C#\Udemy_CSharp_Fofanov\37_HomeWork\obj\Debug\37_HomeWork.exe
+C:\_Tsimakhovich\C#\Udemy_CSharp_Fofanov\37_HomeWork\obj\Debug\37_HomeWork.pdb
