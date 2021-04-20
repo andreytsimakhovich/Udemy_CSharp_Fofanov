@@ -24,3 +24,5 @@
 * 41 Циклы while и do while
 * 42 Управление циклом: break и continue
 * 43 Условия через switch\case
+* 45 HomeWork <Числа Фибоначчи>
+* 47 HomeWork <Вычисление среднего>
