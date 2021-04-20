@@ -1,0 +1,6 @@
+C:\_Tsimakhovich\C#\Udemy_CSharp_Fofanov\41_Lesson\bin\Debug\41_Lesson.exe.config
+C:\_Tsimakhovich\C#\Udemy_CSharp_Fofanov\41_Lesson\bin\Debug\41_Lesson.exe
+C:\_Tsimakhovich\C#\Udemy_CSharp_Fofanov\41_Lesson\bin\Debug\41_Lesson.pdb
+C:\_Tsimakhovich\C#\Udemy_CSharp_Fofanov\41_Lesson\obj\Debug\41_Lesson.csproj.CoreCompileInputs.cache
+C:\_Tsimakhovich\C#\Udemy_CSharp_Fofanov\41_Lesson\obj\Debug\41_Lesson.exe
+C:\_Tsimakhovich\C#\Udemy_CSharp_Fofanov\41_Lesson\obj\Debug\41_Lesson.pdb

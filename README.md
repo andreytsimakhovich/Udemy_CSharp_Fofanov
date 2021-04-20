@@ -21,3 +21,4 @@
 * 37 HomeWork <Нахождение максимума>
 * 39 Циклы for и foreach
 * 40 Вложенный цикл for
+* 41 Циклы while и do while
