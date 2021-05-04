@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using _60_Lesson;
 
 namespace _59_Lesson
 {
@@ -32,6 +33,13 @@ namespace _59_Lesson
             {
                 Console.WriteLine(item);
             }
+
+            Character c = new Character();
+            Console.WriteLine("Please, enter damage:");
+            int value = int.Parse(Console.ReadLine());
+            c.Hit(value);
+            Console.WriteLine("Value of health:" + c.Health);
+            Console.ReadKey();
         }
     }
 }
