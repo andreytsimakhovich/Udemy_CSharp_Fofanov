@@ -1,0 +1,7 @@
+C:\_Tsimakhovich\C#\Udemy_CSharp_Fofanov\Training\bin\Debug\Training.exe.config
+C:\_Tsimakhovich\C#\Udemy_CSharp_Fofanov\Training\bin\Debug\Training.exe
+C:\_Tsimakhovich\C#\Udemy_CSharp_Fofanov\Training\bin\Debug\Training.pdb
+C:\_Tsimakhovich\C#\Udemy_CSharp_Fofanov\Training\obj\Debug\Training.csprojAssemblyReference.cache
+C:\_Tsimakhovich\C#\Udemy_CSharp_Fofanov\Training\obj\Debug\Training.csproj.CoreCompileInputs.cache
+C:\_Tsimakhovich\C#\Udemy_CSharp_Fofanov\Training\obj\Debug\Training.exe
+C:\_Tsimakhovich\C#\Udemy_CSharp_Fofanov\Training\obj\Debug\Training.pdb
